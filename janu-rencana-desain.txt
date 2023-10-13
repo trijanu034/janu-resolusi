@@ -2,5 +2,6 @@ rencana desain
 - belajar photoshop
   - color grading
   - effect transisi
+    - transisi cepat lambat
 - after effect
 - corel draw
